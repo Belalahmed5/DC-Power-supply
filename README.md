@@ -2,13 +2,6 @@
 
 An academic electronics project involving the design, simulation, analysis, and hardware implementation of a DC power supply.
 
-## Team Members
-
-- Belal Ahmed Sadek
-- Omar Ahmed Fouad
-- Sharifa Ashraf Mourad
-- Yara Ahmed Sabry
-
 ## Project Overview
 
 The main objective of this project was to design and analyze a DC power supply that converts an AC input into a stable DC output.
